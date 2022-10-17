@@ -1,2 +1,4 @@
 // Code your solution in this file!
-let sara ='hi'
+const companyName='Scuber';
+let mostProfitableNeighborhood='Chelsea';
+let companyCeo='Susan Smith';
